@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋, welcome to So Mi's page</h1>
+<h1 align="left">Hi there👋, Welcome to So Mi's page</h1>
 <h3 align="left">I'm a Banking/Fintech IT Consultant</h3>
 
 I’m an IT consultant specializing in banking and finance projects. I started my career since 2015, working in both Korean and overseas projects. I have business analytics skills and currently working on improving on data analytics skills. Industries that keeps me motivated are banking, fintech, IT, and game. 
