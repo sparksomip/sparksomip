@@ -22,6 +22,10 @@ I’m an IT consultant specializing in banking and finance projects. I started m
   - Project 3: [https://github.com/sparksomip/project3]<br>
     It's about: Marketing Analysis. Send out a marketing promotion for a new credit card to customer groups which are likely to sign-up<br>
 
+  **Projects in Python**<br>
+  - Project 4: [https://github.com/sparksomip/project4]<br>
+    It's about: Exploratory Data Analytics. Predict quality of a wine using category low, medium, and high.<br>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparksomip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparksomip" height="20" width="30" /></a>
