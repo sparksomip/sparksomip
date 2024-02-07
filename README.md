@@ -8,11 +8,19 @@ I’m an IT consultant specializing in banking and finance projects. I started m
 - 👨‍💻 I’m currently studying **Advanced Data Analytics Professional Certificate** <br>
 - ⚡ Fun fact **I love playing PS5. In fact, Last of Us is my favorite of them all.** <br>
 
-<h3 align="left">Personal projects in R...</h3>
+<h3 align="left">Personal projects in Data Analytics, Machine Learning</h3>
 
 - 📝 All of my projects are available at:<br>
+
+  **Projects in R**<br>
   - Project 1: [https://github.com/sparksomip/project1]<br>
+    It's about: Machine Learning. Classification of spam using predictors measuring the percentage of words whether they are spam or not<br>
   - Project 2: [https://github.com/sparksomip/project2]<br>
+    It's about: Machine Learning. Prediction of high tide in Venice using the past observed data
+
+  **Projects in Stata 18**<br>
+  - Project 3: [https://github.com/sparksomip/project3]<br>
+    It's about: Marketing Analysis. Send out a marketing promotion for a new credit card to customer groups which are likely to sign-up<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
