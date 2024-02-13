@@ -12,17 +12,17 @@ I’m an IT consultant specializing in banking and finance projects. I started m
 
 - 📝 All of my projects are available at:<br>
 
-  **Projects in R**<br>
+  **Projects using R**<br>
   - Project 1: [https://github.com/sparksomip/project1]<br>
     It's about: Machine Learning. Classification of spam using predictors measuring the percentage of words whether they are spam or not<br>
   - Project 2: [https://github.com/sparksomip/project2]<br>
     It's about: Machine Learning. Prediction of high tide in Venice using the past observed data
 
-  **Projects in Stata 18**<br>
+  **Projects using Stata 18**<br>
   - Project 3: [https://github.com/sparksomip/project3]<br>
     It's about: Marketing Analysis. Send out a marketing promotion for a new credit card to customer groups which are likely to sign-up<br>
 
-  **Projects in Python**<br>
+  **Projects using Python**<br>
   - Project 4: [https://github.com/sparksomip/project4]<br>
     It's about: Exploratory Data Analytics. Predict quality of a wine using category low, medium, and high.<br>
   
