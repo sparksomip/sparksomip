@@ -7,6 +7,7 @@ I’m an IT consultant specializing in banking and finance projects. I started m
 - 🌱 I’m can provide **a seamless link between the development/IT and business thinkers to make the customer journey super!** <br>
 - 👨‍💻 I’m currently studying **Advanced Data Analytics Professional Certificate** <br>
 - ⚡ Fun fact **I love playing PS5. In fact, Last of Us is my favorite of them all.** <br>
+- 💙 Tech inerests **I looking forward to metaverse, AR, VR, blockchain technologies, and big data analytics. I believe it will change the world and I would like to be part of the change!** <br>
 
 <h3 align="left">Personal projects in Data Analytics, Machine Learning</h3>
 
